@@ -61,6 +61,9 @@ Bug reports are welcome, especially with an exported report (**Export report...*
 
 Translations live in `src/i18n.cpp`; corrections from native speakers are very welcome. A new language needs one entry per row, with the same printf placeholders as the English text. Languages that need complex text shaping or right-to-left layout (Arabic, Hindi, Bengali…) are not supported by Dear ImGui.
 
+## Support
+Mouse Tester is free and will stay free. If it helped you, you can buy me a coffee on [Ko-fi](https://ko-fi.com/lcrd42).
+
 ## License
 Copyright (C) 2026 lcrd42.
 
